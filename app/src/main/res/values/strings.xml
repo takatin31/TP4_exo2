@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ma bibliotheque</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titre">Titre du livre</string>
+    <string name="auteur">Nom de l\'auteur</string>
+    <string name="resume">Résumé du livre</string>
+    <string name="sortie">Sortir</string>
+
+    <integer-array name="images">
+        <item>@drawable/newt</item>
+        <item>@drawable/ein</item>
+        <item>@drawable/ibn_badis</item>
+        <item>@drawable/emir</item>
+
+    </integer-array>
+</resources>
